@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://rohanportfolio2807.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://cdn-icons-png.flaticon.com/512/726/726056.png" width="52" height="40" alt="Portfolio logo"  />
+    <img src="https://www.svgrepo.com/show/2730/portfolio.svg" width="52" height="40" alt="Portfolio logo"  />
   </a>
   <a href="rohansingh9972@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
