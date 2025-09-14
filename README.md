@@ -40,16 +40,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
 
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
-</div>
 
-###
+
+
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan73079&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <div align="right">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+</div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan73079&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
