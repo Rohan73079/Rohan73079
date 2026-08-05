@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Rohan Kumar, a final-year B.Tech Computer Science student at Pranveer Singh Institute of Technology with a strong passion for software development and open-source collaboration. I enjoy building scalable and user-friendly web applications using technologies such as JavaScript, React, Node.js and cloud platforms like Vercel and AWS. Constantly learning and experimenting with new tools, I’m eager to contribute to innovative projects and enhance my skills in full-stack development, problem solving and emerging technologies.</p>
+<p align="left">I am Rohan Kumar, a B.Tech Computer Science graduate from Dr. APJ Abdul Kalam Technical University with a strong passion for software development and open-source collaboration. I enjoy building scalable and user-friendly web applications using technologies such as JavaScript, React, Node.js and cloud platforms like Vercel and AWS. Constantly learning and experimenting with new tools, I’m eager to contribute to innovative projects and enhance my skills in full-stack development, problem solving and emerging technologies.</p>
 
 ###
 
